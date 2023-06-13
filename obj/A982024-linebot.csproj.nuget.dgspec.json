@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\user\\Desktop\\A982024-linebot\\A982024-linebot\\A982024-linebot.csproj": {}
+    "C:\\Users\\user\\RiderProjects\\A982024-linebot\\A982024-linebot.csproj": {}
   },
   "projects": {
-    "C:\\Users\\user\\Desktop\\A982024-linebot\\A982024-linebot\\A982024-linebot.csproj": {
+    "C:\\Users\\user\\RiderProjects\\A982024-linebot\\A982024-linebot.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\Desktop\\A982024-linebot\\A982024-linebot\\A982024-linebot.csproj",
+        "projectUniqueName": "C:\\Users\\user\\RiderProjects\\A982024-linebot\\A982024-linebot.csproj",
         "projectName": "A982024-linebot",
-        "projectPath": "C:\\Users\\user\\Desktop\\A982024-linebot\\A982024-linebot\\A982024-linebot.csproj",
+        "projectPath": "C:\\Users\\user\\RiderProjects\\A982024-linebot\\A982024-linebot.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\Desktop\\A982024-linebot\\A982024-linebot\\obj\\",
+        "outputPath": "C:\\Users\\user\\RiderProjects\\A982024-linebot\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config"
